@@ -13,8 +13,8 @@ This project was created as part of the **#cl-dop-setupgit** task.
 
 🛠️ How to Run
 
-Download or clone the repository
+1. Download or clone the repository
 
-Open index.html in any browser
+2. Open index.html in any browser
 
-Use the calculator — that's it
+3. Use the calculator — that's it
