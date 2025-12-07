@@ -11,3 +11,10 @@ This project was created as part of the **#cl-dop-setupgit** task.
 - Clean UI with responsive layout
 - Error handling for invalid inputs
 
+🛠️ How to Run
+
+Download or clone the repository
+
+Open index.html in any browser
+
+Use the calculator — that's it
