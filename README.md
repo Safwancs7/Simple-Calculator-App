@@ -11,6 +11,3 @@ This project was created as part of the **#cl-dop-setupgit** task.
 - Clean UI with responsive layout
 - Error handling for invalid inputs
 
----
-
-## 📂 Project Structure
